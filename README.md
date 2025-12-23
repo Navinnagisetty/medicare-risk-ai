@@ -4,6 +4,12 @@
 ## 🚀 Project Overview
 A cloud-native data platform designed for a Medicare Accountable Care Organization (ACO) managing 96,000 lives. This project implements a modern ELT pipeline to process medical claims, predict financial risk using in-database Machine Learning, and democratize data access via a Generative AI chatbot.
 
+## 🎥 Interface Demo
+*Watch the Generative AI Assistant translate a natural language question into a complex SQL query and visualize the results in real-time.*
+
+![AI Chatbot Demo](![app_demo](https://github.com/user-attachments/assets/de7b8b41-4975-46cc-beec-c2a49390bc92)
+)
+
 ## 🏗️ Architecture
 `Raw Claims` ➔ **Snowflake Ingestion** (Grain Control) ➔ **Analytics Layer** (Feature Eng) ➔ **Snowpark ML** (Random Forest) ➔ **Streamlit UI** (GenAI)
 
