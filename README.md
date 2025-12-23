@@ -7,7 +7,8 @@ A cloud-native data platform designed for a Medicare Accountable Care Organizati
 ## 🎥 Interface Demo
 *Watch the Generative AI Assistant translate a natural language question into a complex SQL query and visualize the results in real-time.*
 
-![AI Chatbot Demo](![app_demo](https://github.com/user-attachments/assets/de7b8b41-4975-46cc-beec-c2a49390bc92)
+![AI Chatbot Demo](<img width="1715" height="1594" alt="image" src="https://github.com/user-attachments/assets/c246dabe-8cbd-4c3d-982e-e5f9158ca90a" />
+
 )
 
 ## 🏗️ Architecture
