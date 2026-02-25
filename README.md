@@ -88,4 +88,4 @@ Raw Claims → Snowflake Ingestion → Analytics Layer → Snowpark ML → Corte
 **Navin Kumar Nagisetty**
 📧 navinnagisetty@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/navinnagisetty/)
-🐙 [GitHub](https://github.com/Navin1114-collab)
+🐙 [GitHub](https://github.com/navinnagisetty)
